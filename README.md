@@ -10,4 +10,4 @@ For dashboard creator I also provide a simple plugin that exposes the current la
 - Code
 - Language
 
-- ![Plugin properties](https://www.overtake.gg/attachments/localizationdetector-png.834458/)
+![Plugin properties](https://www.overtake.gg/attachments/localizationdetector-png.834458/)
